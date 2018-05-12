@@ -1,0 +1,33 @@
+_repo: Baseball-Joe-of-the-Silver-Starsor-The-Rivals-of-Riverside_37056
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37056-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chadwick, Lester
+    gutenberg_agent_id: '32638'
+    url: http://www.gutenberg.org/2009/agents/32638
+description: Joe Matson moves to a new town and longs to pitch for the local nine,
+  though the presence of a near-psychotically jealous ace pitcher slows his trajectory
+  toward baseball stardom.
+gutenberg_issued: '2011-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Patents -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Baseball stories'
+- !lcsh 'Young men -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Baseball players -- Juvenile fiction'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Envy -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: Baseball Joe of the Silver Stars; or, The Rivals of Riverside
+url: http://www.gutenberg.org/ebooks/37056
